@@ -1,1 +1,3 @@
 Lorem ipsum dolores
+Person B add some lines to tenlines.txt two
+Person have "git push will fail"
